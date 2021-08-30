@@ -2,7 +2,7 @@
 
 *Ce projet consiste à créer un shell avancé.*
 
-Projet Imcomplet
+Projet Incomplet
 
 ## Team:
 *efischer
